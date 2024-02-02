@@ -69,7 +69,7 @@ Stable Video Diffusion (SVD) 1.1 Image-to-Video is a diffusion model that takes 
 ### Model Description
 
 (SVD 1.1) Image-to-Video is a latent diffusion model trained to generate short video clips from an image conditioning. 
-This model was trained to generate 25 frames at resolution 576x1024 given a context frame of the same size, finetuned from [SVD Image-to-Video [25 frames]](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt).
+This model was trained to generate 25 frames at resolution 1024x576 given a context frame of the same size, finetuned from [SVD Image-to-Video [25 frames]](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt).
 Fine tuning was performed with fixed conditioning at 6FPS and Motion Bucket Id 127 to improve the consistency of outputs without the need to adjust hyper parameters. These conditions are still adjustable and have not been removed. Performance outside of the fixed conditioning settings may vary compared to SVD 1.0.
 
 
