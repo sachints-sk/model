@@ -58,10 +58,10 @@ extra_gated_fields:
   By clicking here, you agree to sharing with Stability AI the information contained within this form and that Stability AI can contact you for the purposes of marketing our products and services: checkbox
 ---
 
-# Stable Video Diffusion Image-to-Video Model Card
+# Stable Video Diffusion 1.1 Image-to-Video Model Card
 
 <!-- Provide a quick summary of what the model is/does. -->
-![row01](output_tile.gif)
+![row01](svd11.webp)
 Stable Video Diffusion (SVD) 1.1 Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it. 
 
 ## Model Details
