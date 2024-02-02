@@ -86,12 +86,6 @@ which implements the most popular diffusion frameworks (both training and infere
 - **Repository:** https://github.com/Stability-AI/generative-models
 - **Paper:** https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets
 
-
-## Evaluation
-![comparison](comparison.png)
-The chart above evaluates user preference for SVD-Image-to-Video over [GEN-2](https://research.runwayml.com/gen2) and [PikaLabs](https://www.pika.art/).
-SVD-Image-to-Video is preferred by human voters in terms of video quality. For details on the user study, we refer to the [research paper](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)
-
 ## Uses
 
 ### Direct Use
