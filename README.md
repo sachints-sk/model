@@ -64,6 +64,8 @@ extra_gated_fields:
 ![row01](svd11.webp)
 Stable Video Diffusion (SVD) 1.1 Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it. 
 
+Please note: For commercial use, please refer to https://stability.ai/membership.
+
 ## Model Details
 
 ### Model Description
@@ -92,13 +94,15 @@ which implements the most popular diffusion frameworks (both training and infere
 
 ### Direct Use
 
-The model is intended for research purposes only. Possible research areas and tasks include
+The model is intended for both non-commercial and commercial usage. You can use this model for non-commercial or research purposes under the following [license](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1/blob/main/LICENSE). Possible research areas and tasks include
 
 - Research on generative models.
 - Safe deployment of models which have the potential to generate harmful content.
 - Probing and understanding the limitations and biases of generative models.
 - Generation of artworks and use in design and other artistic processes.
 - Applications in educational or creative tools.
+  
+For commercial use, please refer to https://stability.ai/membership.
 
 Excluded uses are described below.
 
